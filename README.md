@@ -22,3 +22,5 @@ Unityで制作した一人称視点のホラーゲームです。暗闇の中を
 # https://kelly244.github.io/horror/
 
 
+![スクリーンショット 2025-06-22 220109](https://github.com/user-attachments/assets/39de8ae0-494e-45a0-8e56-5e48c156a34c)
+![スクリーンショット 2025-06-22 220049](https://github.com/user-attachments/assets/6b4a36ab-cb26-4acc-a3a4-f7ce3eab0962)
